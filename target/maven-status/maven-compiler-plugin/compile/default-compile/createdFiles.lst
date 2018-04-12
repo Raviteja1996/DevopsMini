@@ -2,8 +2,8 @@ miniproject/SearchByOtherPanel.class
 miniproject/Car.class
 miniproject/AboutDialog$WindowCloser.class
 miniproject/CarDetailsComponents.class
-miniproject/CarSalesSystem.class
 miniproject/AddCarPanel.class
+miniproject/CarSalesSystem.class
 miniproject/Manufacturer.class
 miniproject/SearchByAgePanel.class
 miniproject/CarUpdateEvent.class
