@@ -1,3 +1,4 @@
+package miniproject;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;

@@ -1,3 +1,4 @@
+package miniproject;
 /**
  * A basic event that is sent off to registered listeners
  * @

@@ -1,1 +1,1 @@
-# DevopsMini
+# MiniProject
